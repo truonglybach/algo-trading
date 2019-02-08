@@ -5,4 +5,4 @@ An alpha model consists of some sort of rules or predictive factors that derive 
 
 In order to derive actionable insights from data, it is inevitable to conduct statistical studies to determine/develop an alpha model.
 
-In this directory, I will be seeking the alpha of my trading strategy and employ a variety of studies in order to program an effective trading algorithm.
+In this directory, I will attempt to develop a profitable trading strategy and employ a variety of studies in order to program an effective trading algorithm.

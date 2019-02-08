@@ -1,0 +1,1 @@
+In this Jupyter Notebook, I employ a sequential model from Keras with an LSTM block in order to predict the next day's closing price for Tesla.
